@@ -48,7 +48,7 @@ GROQ_API_KEY=gsk_your_real_key_here
 ### 4. Run the App
 
 ```bash
-python app.py
+python fitness_nutrition_bot.py
 ```
 
 This will start the Gradio app locally and provide a public `gradio.live` link.
